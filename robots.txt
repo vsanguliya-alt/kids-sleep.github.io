@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vsanguliya-alt.github.io/kids-sleep/sitemap.xml
